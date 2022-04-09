@@ -15,4 +15,8 @@ hi java
 spring boot 
 >>>>>>> b47786ca7e934fda6117ec672aebf5762076f9ca
 
+<<<<<<< HEAD
 tutorial of windows 10
+=======
+tutorial of pc seven
+>>>>>>> 3b5300bf7f7ea5fdbf6d11ad48b226784012a801
